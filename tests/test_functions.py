@@ -1,7 +1,7 @@
 from src.functions import (
     add_numbers,
     subtract_numbers,
-    multiplly_numbers,
+    multiply_numbers,
 )
 
 
