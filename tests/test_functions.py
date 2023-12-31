@@ -10,7 +10,7 @@ def test_add_numbers():
 
 
 def test_subtract_numbers():
-    assert subtract_numbers(4, 2) == 1
+    assert subtract_numbers(3, 2) == 1
 
 
 def test_multiply_numbers():
